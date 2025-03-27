@@ -5,6 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Faiz khan</h1>
 <h3 align="center">Faiz khan | Aspiring Developer</h3>
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://media1.tenor.com/m/9K3i_HeR3IYAAAAC/toxiqueney-mannequinney.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiz0001&label=Profile%20views&color=0e75b6&style=flat" alt="faiz0001" /> </p>
 

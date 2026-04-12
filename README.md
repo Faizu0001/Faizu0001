@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Career Guidance**
 
-- 🌱 I’m currently learning **C++, Python, Html5, CSS3**
+- 🌱 I’m currently learning **C++, Python, Html5, CSS3 ,JS ,Java , Flask ,MongoDB**
 
 - 💬 Ask me about **HTML5**
 
